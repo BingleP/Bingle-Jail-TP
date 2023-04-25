@@ -13,3 +13,9 @@ For example, to jail a player named "Bob" for 30 minutes, you would enter the fo
 Or to jail a player named "Steve" for 2 days, you would enter:
 
 !jailtp Steve 2d
+
+# Coming in v1.1
+
+-Make players only able to walk when jailed (slow the movement speed)
+-Make players unable to equip items when jailed (no weapons, sweps, etc)
+-Make players continue their jail sentence when logging back in (set to indefinite)
