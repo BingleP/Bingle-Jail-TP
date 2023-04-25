@@ -1,4 +1,4 @@
-# Bingle-s-Jail-TP
+# Bingle-Jail-TP
 
 To use the command, you would enter the following text into the chat box:
 
