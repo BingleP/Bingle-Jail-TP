@@ -14,6 +14,10 @@ Or to jail a player named "Steve" for 2 days, you would enter:
 
 !jailtp Steve 2d
 
+To unjail a player you'd use
+
+!unjail <player>
+
 ## Coming in v1.1
 
 - Make players only able to walk when jailed (slow the movement speed)
